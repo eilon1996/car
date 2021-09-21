@@ -1,5 +1,4 @@
-![](https://github.com/eilon1996/car/blob/master/car_light.gif  width="324" height="577")
-<img src="https://github.com/eilon1996/car/blob/master/car_light.gif" width="250" height="250"/>
+<img src="https://github.com/eilon1996/car/blob/master/car_light.gif" width="259" height="460"/>
 
 <h2>want to build your own remote control car? </h2>
 <h3>here is the equepment I used  </h3>
