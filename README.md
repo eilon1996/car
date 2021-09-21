@@ -1,4 +1,6 @@
-<img src="https://github.com/eilon1996/car/blob/master/car_light.gif" width="259" height="460"/>
+<h1>remote control car project</h1>
+
+<img src="https://github.com/eilon1996/car/blob/master/car_light.gif" width="235" height="419"/>
 
 <h2>want to build your own remote control car? </h2>
 <h3>here is the equepment I used  </h3>
