@@ -2,12 +2,13 @@ want to build your own remote control car?
 here is the equepment I used  
 
 for the remote conrol:  
-ESP8266  
+<ul>
+  <li>ESP8266  </li>
 ADC3008  
 2-Axis Joystick  
 2 small breadboards / a long one  
 15 male-male jumper wires  
-
+</ul>
 for the car:  
 Rasperry Pi  
 L293D  
