@@ -1,3 +1,5 @@
+![](http://i.imgur.com/OUkLi.gif)
+
 
 <h2>want to build your own remote control car? </h2>
 <h3>here is the equepment I used  </h3>
@@ -11,7 +13,7 @@
   <li>15 male-male jumper wires  </li>
 </ul>
 
-</h4>for the car: </h4> 
+<h4>for the car: </h4> 
 <ul>
  <li>Rasperry Pi  </li>
  <li>L293D  </li>
