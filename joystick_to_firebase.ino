@@ -20,7 +20,7 @@ float data[] = {-1,-1};
 
 
 #define WIFI_SSID "Oria" // "Oren_2.4G"  //"toledano"
-#define WIFI_PASSWORD "0542405993"  // "12qwaszx"    //"toledano3"
+#define WIFI_PASSWORD "***"
 
 int led = 0;     // Connect LED to D5
 
